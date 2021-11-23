@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/tayyab/Desktop/Dev/how-much-gas/server/target/debug/build/typenum-dc228ee2490b4610/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/tayyab/Desktop/Dev/how-much-gas/server/target/debug/build/typenum-dc228ee2490b4610/out/op.rs
